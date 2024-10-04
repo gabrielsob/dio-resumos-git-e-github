@@ -14,7 +14,7 @@ Repositório para armazenar resumos sobre Git e Github do curso Versionamento de
 |Gravando Alterações no Repositório Loca | [Resumos]() |
 
 ---
-Git Ini
+Git InI🐙
 ---
 
 ## 🔍 Referências
